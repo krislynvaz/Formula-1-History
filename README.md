@@ -11,7 +11,7 @@ In this analysis, we set out to explore trends, performance metrics, and predict
 
 This dataset consists of all information on the Formula 1 races, drivers, constructors, qualifying, circuits, lap times, pit stops, championships, etc. from 1950 till the latest 2024 season.
 
-## Questions answered
+## Questions
 1) Who are the most successful drivers in F1 history?
 2) How has Lewis Hamilton’s performance evolved over time?
 3) Which nationalities dominate Formula 1 wins?

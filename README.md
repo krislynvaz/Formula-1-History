@@ -23,9 +23,9 @@ This dataset consists of all information on the Formula 1 races, drivers, constr
   Hamilton began his F1 career in 2007. His win count accelerated in 2013 when he moved to Mercedes. Averaged 10+ wins per season from 2014 to 2020.
 
 5) Which nationalities dominate Formula 1 wins?
-   <img width="540" height="432" alt="image" src="https://github.com/user-attachments/assets/90979efc-49f7-4291-8eb2-a7ca74159621" />
+<img width="540" height="432" alt="image" src="https://github.com/user-attachments/assets/90979efc-49f7-4291-8eb2-a7ca74159621" />
 
-   British drivers lead with the most wins, showing long-term dominance in the sport.
+British drivers lead with the most wins, showing long-term dominance in the sport.
 
 7) Which constructors have the most podium finishes?
 8) How have 2019 rookies progressed in F1?

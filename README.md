@@ -13,17 +13,17 @@ This dataset consists of all information on the Formula 1 races, drivers, constr
 
 ## Questions
 1) Who are the most successful drivers in F1 history?
-   <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/aef96a71-949e-41c4-b4fc-ec06f15309a6" />
+   <img width="639" height="505" alt="image" src="https://github.com/user-attachments/assets/95abfd82-839f-46f5-9150-8fc3fb0e0481" />
 
    Lewis Hamilton leads with 104 wins and seven world champions. All top 5 drivers were once a world champion.
 
 3) How has Lewis Hamilton’s performance evolved over time?
-  <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/17832027-ec40-44d7-bfda-a6cd4f35f338" />
+   <img width="719" height="465" alt="image" src="https://github.com/user-attachments/assets/26ca4c5f-ea88-4478-9ea2-df4b5a04e934" />
 
   Hamilton began his F1 career in 2007. His win count accelerated in 2013 when he moved to Mercedes. Averaged 10+ wins per season from 2014 to 2020.
 
 5) Which nationalities dominate Formula 1 wins?
-   <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/339c41a2-1013-48bf-bc76-a8c2c73e3a86" />
+   <img width="540" height="432" alt="image" src="https://github.com/user-attachments/assets/90979efc-49f7-4291-8eb2-a7ca74159621" />
 
    British drivers lead with the most wins, showing long-term dominance in the sport.
 

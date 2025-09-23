@@ -17,8 +17,8 @@ This dataset consists of all information on the Formula 1 races, drivers, constr
 
    Lewis Hamilton leads with 104 wins and seven world champions. All top 5 drivers were once a world champion.
 
-3) How has Lewis Hamilton’s performance evolved over time?
-   <img width="719" height="465" alt="image" src="https://github.com/user-attachments/assets/26ca4c5f-ea88-4478-9ea2-df4b5a04e934" />
+2) How has Lewis Hamilton’s performance evolved over time?
+<img width="719" height="465" alt="image" src="https://github.com/user-attachments/assets/26ca4c5f-ea88-4478-9ea2-df4b5a04e934" />
 
   Hamilton began his F1 career in 2007. His win count accelerated in 2013 when he moved to Mercedes. Averaged 10+ wins per season from 2014 to 2020.
 
